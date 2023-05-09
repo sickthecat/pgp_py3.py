@@ -7,3 +7,4 @@ Needs python-gnupg.
 `pip3 install python-gnupg`
 
 Takes the email address and password for the private key as arguments and saves the keypair as needed in it's respective execution directory.
+This script is considered obsolete by me. Please use afterburn.
